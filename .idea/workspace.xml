@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9874da8-b032-4a64-8731-4ca9ed6702ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/ts1-cv04-Foo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/__MACOSX/ts1-cv04-Foo/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/__MACOSX/ts1-cv04-Foo/._pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/__MACOSX/ts1-cv04-Foo/src/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/__MACOSX/ts1-cv04-Foo/src/main/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/__MACOSX/ts1-cv04-Foo/src/main/java/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/__MACOSX/ts1-cv04-Foo/src/main/java/cz/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/__MACOSX/ts1-cv04-Foo/src/main/java/cz/cvut/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/__MACOSX/ts1-cv04-Foo/src/main/java/cz/cvut/fel/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/src/main/java/cz/cvut/fel/ts1/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/src/test/java/cz/cvut/fel/ts1/FooTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/src/test/java/cz/cvut/fel/ts1/lab03/FirstTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/src/test/java/cz/cvut/fel/ts1/lab03/FooLabTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/target/classes/cz/cvut/fel/ts1/Foo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/target/test-classes/cz/cvut/fel/ts1/FooTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/target/test-classes/cz/cvut/fel/ts1/lab03/FirstTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/target/test-classes/cz/cvut/fel/ts1/lab03/FooLabTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ts1-cv04-Foo/ts1-cv04-Foo/ts1-cv04-foo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS1_bondarchuk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TS1_bondarchuk/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M97v5zSaoMH3NqB2ayoOQYIs0G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/FEL_TS1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9874da8-b032-4a64-8731-4ca9ed6702ff" name="Changes" comment="" />
+      <created>1677168171710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677168171710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
